@@ -41,3 +41,6 @@
 - `npm run dev` - to run application in localhost:8080. This will watch the .js and .css files and rebuild on file changes
 - `npm run build:prod`
 
+## 示例
+
+![img](https://raw.githubusercontent.com/boommanpro/my-skill-radar/main/docs-file/front.png)
