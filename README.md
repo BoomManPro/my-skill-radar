@@ -43,4 +43,4 @@
 
 ## 示例
 
-![img](https://raw.githubusercontent.com/boommanpro/my-skill-radar/main/docs-file/front.png)
+![img](https://raw.githubusercontent.com/boommanpro/my-skill-radar/master/docs-file/front.png)
